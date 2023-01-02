@@ -9,4 +9,5 @@ int main () {
     fprintf(fptr, "%c", 'O');
     fclose(fptr);
     return 0 ;
+    int new=0;
 }
